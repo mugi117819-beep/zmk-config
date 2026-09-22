@@ -1,0 +1,6 @@
+if SHIELD_CADPAD
+
+config ZMK_KEYBOARD_NAME
+    default "cadpad"
+
+endif # SHIELD_CADPAD
